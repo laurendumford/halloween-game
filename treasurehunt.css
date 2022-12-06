@@ -1,0 +1,68 @@
+h1 {
+  color: #9c73f6;
+  font-size: 40px;
+  text-align: center;
+  font-family: cursive;
+}
+li {
+  margin: 0px;
+  text-align: center;
+  font-family: Arial;
+  list-style-position: inside;
+  color: white;
+  font-weight: lighter;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+h3 {
+  margin: 0px;
+  text-decoration: underline;
+  font-family: "Arial";
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Arial";
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: white;
+}
+footer{
+  color: white;
+  font-family: "Arial";
+}
+.center {
+  display: flex;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+}
+body {
+  background-color: #19254d;
+  background-image: url("halloween.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.button {
+  background-color: #905EFC;
+  font-size: 40px;
+  padding: 10px 24px;
+  border-radius: 12px;
+  border: 0px
+}
+a:link {
+  color: #98D142;
+}
+a:visited {
+  color: #D8F4AF
+}
